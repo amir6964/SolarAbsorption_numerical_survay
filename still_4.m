@@ -1,7 +1,7 @@
 % MATLAB numerical survey for measuring the Solar Absorption and Optimal Inclination
 
 % Constants and parameters
-latitude = 35.8; % Latitude of location (Karaj)
+latitude = 35.8; % Latitude of location (Karaj, Iran)
 solar_constant = 945; % Average solar constant (W/m^2)
 hours = 10.5:1:16.5; % Hours of the day (10:30 AM to 4:30 PM)
 inclination_angles = 10:10:50; % Inclination angles to test (degrees)
